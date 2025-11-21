@@ -1,0 +1,97 @@
+###############################
+# OS / SYSTEM FILES
+###############################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+###############################
+# EDITOR / IDE FILES
+###############################
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+###############################
+# LOGS / TEMP FILES
+###############################
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+###############################
+# BACKUP / CRASH / AUTOSAVE
+###############################
+*~
+*.old
+*.orig
+*.backup
+*.crash
+*.core
+core.*
+*.rej
+
+###############################
+# PYTHON
+###############################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+env/
+
+###############################
+# C / C++ BUILD FILES
+###############################
+*.o
+*.out
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+build/
+bin/
+dist/
+
+
+###############################
+# LATEX
+###############################
+*.aux
+*.log
+*.toc
+*.lot
+*.lof
+*.out
+*.gz
+*.fls
+*.fdb_latexmk
+
+###############################
+# LARGE / GENERATED FILES
+###############################
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+*.iso
+
+###############################
+# ANYTHING YOU DON’T WANT ACCIDENTALLY COMMITTED
+###############################
+*.key
+*.pem
+*.cert
+*.cache
