@@ -1,0 +1,4 @@
+This is the content of the file being transferred.
+Line 2: The quick brown fox jumps over the lazy dog.
+Line 3: Distributed Systems Practical Work 1 - TCP File Transfer (C version).
+Line 4: HelloWorld=>
