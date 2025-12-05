@@ -11,5 +11,5 @@ Student Info
 
 * Student Name: Dương Đức Anh
 * Student ID: 23BI14012
-* Student Group ID: Not-for-now
+* Student Group ID: 7
 
